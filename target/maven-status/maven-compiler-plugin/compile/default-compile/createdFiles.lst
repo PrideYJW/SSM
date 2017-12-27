@@ -1,0 +1,5 @@
+com\entity\UserEntity.class
+com\dao\UserDao.class
+com\service\impl\UserServiceImpl.class
+com\web\UserController.class
+com\service\UserService.class

@@ -15,4 +15,7 @@ public interface UserService {
 
 
     public int init();
+
+
+    public int updata();
 }

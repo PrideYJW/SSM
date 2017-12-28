@@ -14,8 +14,4 @@ public interface UserService {
     public List<UserEntity> query4List(Map<String, String> map);
 
 
-    public int init();
-
-
-    public int updata();
 }

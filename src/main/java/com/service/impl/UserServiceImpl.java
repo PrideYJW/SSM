@@ -23,14 +23,7 @@ public class UserServiceImpl implements UserService {
         return userDao.query4List(map);
     }
 
-    public int init() {
 
-        return 0;
-    }
-
-    public int updata() {
-        return 0;
-    }
 
 
 }
